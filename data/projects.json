@@ -1,0 +1,20 @@
+[
+  {
+    "title": "CubeSat Initiative",
+    "description": "A team I created to develop and lauch CubeSat to orbit.",
+    "image": "assets/images/project1.png",
+    "link": "https://darkhydraengi.github.io/ihs-maker-club-website/project-pages/cubesat.html"
+  },
+  {
+    "title": "Rocketry Team",
+    "description": "builds and develops parts and new technology for model rockets.",
+    "image": "assets/images/project2.png",
+    "link": "https://github.com/yourusername/rocket-telemetry"
+  },
+  {
+    "title": "3D printing Lab",
+    "description": "This is a lab that I help manafge at my school.",
+    "image": "assets/images/new-project.png",
+    "link": "https://darkhydraengi.github.io/ihs-maker-club-website/project-pages/3dprinting.html"
+  }
+]
